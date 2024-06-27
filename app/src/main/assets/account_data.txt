@@ -1,0 +1,5 @@
+Nguyễn Văn A; 0123456789; user1; pass1; 01/01/1990; Hà Nội
+Trần Thị B; 0987654321; user2; pass2; 02/02/1992; TP. Hồ Chí Minh
+Lê Văn C; 0123987654; user3; pass3; 03/03/1993; Đà Nẵng
+Phạm Thị D; 0912345678; user4; pass4; 04/04/1994; Hải Phòng
+Hoàng Văn E; 0908765432; user5; pass5; 05/05/1995; Cần Thơ
